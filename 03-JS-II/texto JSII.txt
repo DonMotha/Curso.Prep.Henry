@@ -1,0 +1,10 @@
+For: es un bucle que calcula un numero , pero uno pone una condicion para que se cumpla hasta cierto punto,
+se estructura por 3 partes, la primera donde se repetira el bucle, despues le damos una condicion osea hasta que punto o numero llegar,
+y el ultimo que incremente el numero de uno en uno.
+
+&&: es una expresion de igualdad que compara dos elementos y si ambas son verdaderas te devuelve true,
+y si solo una de ellas o ambas son falsas, nos dira que es false.
+
+||: este simbolo es 'O' y compara dos elementos, si una o ambas son verdaderas devolvera true, solo devolvera falso y las dos expreciones son false
+
+!: este es negacion o 'no' y invierte lo que se esta pidiendo osea , si digo que (6 = true), este '!' (!6 = false) lo combierte en su contratio
